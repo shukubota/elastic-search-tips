@@ -14,3 +14,6 @@ http://localhost:9200/
 
 kibanaも同時に立ち上げている
 http://localhost:5601/app/dev_tools#/console
+
+## サンプルデータ
+https://www.elastic.co/guide/jp/kibana/current/tutorial-load-dataset.html
